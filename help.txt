@@ -1,0 +1,7 @@
+GIT
+git status
+git add .
+git status
+git commit -m 'Add projects page'
+git push
+git push heroku
